@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hittendra Singh.
 - 👀 I’m interested in learning full stack web development.
-- 🌱 I’m currently learning HTML5, CSS3, PHP, MySql and Drupal_9.
+- 🌱 I’m currently learning HTML5, CSS3, PHP, MySql and Drupal.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at hitcode27@gmail.com
 
